@@ -23,3 +23,7 @@ button {
 	font-size: 30px;
 	font-weight: bold;
 }
+
+#rules {
+	margin: 20px;
+}
